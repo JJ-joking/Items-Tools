@@ -1,0 +1,847 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>MyBatis快速入门 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    
+    <link rel="prev" href="1ORM简介.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" >
+            
+                <span>
+            
+                    
+                    SpringBoot快速入门
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    SpringBoot快速入门
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.1.2" data-path="../chapter1/1模板引擎.html">
+            
+                <a href="../chapter1/1模板引擎.html">
+            
+                    
+                    模板引擎快速入门
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.1.3" data-path="../chapter1/2.案例.html">
+            
+                <a href="../chapter1/2.案例.html">
+            
+                    
+                    案例
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" >
+            
+                <span>
+            
+                    
+                    配置环境
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="../chapter3/设置网络.html">
+            
+                <a href="../chapter3/设置网络.html">
+            
+                    
+                    设置网络与环境
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="../chapter3/启动与测试.html">
+            
+                <a href="../chapter3/启动与测试.html">
+            
+                    
+                    启动与测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="6让HBase支持SQL.html">
+            
+                <a href="6让HBase支持SQL.html">
+            
+                    
+                    让你的HBase支持SQL
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="6.1phoenix简介.html">
+            
+                <a href="6.1phoenix简介.html">
+            
+                    
+                    Phoenix简介
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.2" data-path="6.2的安装配置与使用.html">
+            
+                <a href="6.2的安装配置与使用.html">
+            
+                    
+                    Phoenix的安装配置
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="6.3Phoenix语法介绍.html">
+            
+                <a href="6.3Phoenix语法介绍.html">
+            
+                    
+                    Phoenix语法介绍
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.4" data-path="6.4使用Java开发Phoenix程序.html">
+            
+                <a href="6.4使用Java开发Phoenix程序.html">
+            
+                    
+                    使用编程语言开发Phoenix程序
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.5" data-path="6.5Phoenix索引.html">
+            
+                <a href="6.5Phoenix索引.html">
+            
+                    
+                    Phoenix索引
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.6" data-path="6.6Phoenix索引性能测试.html">
+            
+                <a href="6.6Phoenix索引性能测试.html">
+            
+                    
+                    Phoenix索引性能测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.7" data-path="6.7Phoenix索引类型.html">
+            
+                <a href="6.7Phoenix索引类型.html">
+            
+                    
+                    Phoenix索引类型
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.8" data-path="6.8Phoenix建立索引.html">
+            
+                <a href="6.8Phoenix建立索引.html">
+            
+                    
+                    Phoenix建立索引
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" >
+            
+                <span>
+            
+                    
+                    ORM框架与MyBatis
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.4.1" data-path="1ORM简介.html">
+            
+                <a href="1ORM简介.html">
+            
+                    
+                    ORM简介
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.4.2" data-path="2MyBatis入门.html">
+            
+                <a href="2MyBatis入门.html">
+            
+                    
+                    MyBatis快速入门
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" >
+            
+                <span>
+            
+                    
+                    慧搜项目实战
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.5.1" data-path="../chapter3/需求分析.html">
+            
+                <a href="../chapter3/需求分析.html">
+            
+                    
+                    需求分析
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.2" data-path="../chapter3/2SSM项目整合.html">
+            
+                <a href="../chapter3/2SSM项目整合.html">
+            
+                    
+                    项目整合
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.3" data-path="../chapter3/数据入库.html">
+            
+                <a href="../chapter3/数据入库.html">
+            
+                    
+                    数据入库
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.4" data-path="../chapter3/功能实现.html">
+            
+                <a href="../chapter3/功能实现.html">
+            
+                    
+                    功能实现
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5.5" data-path="../chapter3/性能优化.html">
+            
+                <a href="../chapter3/性能优化.html">
+            
+                    
+                    性能优化
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" >
+            
+                <span>
+            
+                    
+                    精准布控
+            
+                </span>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.6.1" data-path="../chapter4/需求分析.html">
+            
+                <a href="../chapter4/需求分析.html">
+            
+                    
+                    需求分析
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.2" data-path="../chapter4/Phoenix与Spark.html">
+            
+                <a href="../chapter4/Phoenix与Spark.html">
+            
+                    
+                    Phoenix&Spark
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6.3" data-path="../chapter4/实时监控.html">
+            
+                <a href="../chapter4/实时监控.html">
+            
+                    
+                    实时监控&数据大屏
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="../chapter5/项目总结.html">
+            
+                <a href="../chapter5/项目总结.html">
+            
+                    
+                    项目总结
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >MyBatis快速入门</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x7F16;&#x5199;mybatis&#x5165;&#x95E8;&#x7A0B;&#x5E8F;">&#x7F16;&#x5199;MyBatis&#x5165;&#x95E8;&#x7A0B;&#x5E8F;</h1>
+<p>&#x6B65;&#x9AA4;&#xFF1A;</p>
+<ol>
+<li>&#x521B;&#x5EFA;Maven&#x9879;&#x76EE;&#x3001;&#x7F16;&#x8F91;POM&#x6587;&#x4EF6;&#x3001;&#x52A0;&#x5165;MyBatis&#x914D;&#x7F6E;</li>
+<li>&#x521B;&#x5EFA;&#x6570;&#x636E;&#x5E93;&#x3001;&#x5B9A;&#x4E49;&#x8868;</li>
+<li>&#x521B;&#x5EFA;Java&#x5B9E;&#x4F53;&#x7C7B;</li>
+<li>&#x521B;&#x5EFA;&#x5E76;&#x914D;&#x7F6E;MyBatis&#x6838;&#x5FC3;&#x914D;&#x7F6E;&#x6587;&#x4EF6;</li>
+<li>&#x521B;&#x5EFA;SQL&#x6620;&#x5C04;&#x6587;&#x4EF6;</li>
+<li>&#x7F16;&#x5199;&#x6D4B;&#x8BD5;&#x4EE3;&#x7801;&#x5B9E;&#x73B0;&#x63D2;&#x5165;&#x6570;&#x636E;&#x7684;&#x529F;&#x80FD;</li>
+<li>&#x67E5;&#x770B;&#x7ED3;&#x679C;</li>
+</ol>
+<h2 id="&#x5177;&#x4F53;&#x5B9E;&#x73B0;">&#x5177;&#x4F53;&#x5B9E;&#x73B0;</h2>
+<h3 id="1&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;maven&#x9879;&#x76EE;">1.&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;Maven&#x9879;&#x76EE;</h3>
+<p>&#x65B0;&#x5EFA;&#x4E00;&#x4E2A;&#x540D;&#x4E3A; MybatisDemo &#x7684;&#x9879;&#x76EE;</p>
+<h3 id="2-&#x52A0;&#x5165;mybatis-&#x4F9D;&#x8D56;">2. &#x52A0;&#x5165;MyBatis &#x4F9D;&#x8D56;</h3>
+<p>&#x5728; pom.xml&#x6587;&#x4EF6; &#x4E2D;&#x52A0;&#x5165;&#x4F9D;&#x8D56;&#x3002;</p>
+<pre><code class="lang-xml"><span class="hljs-tag">&lt;<span class="hljs-name">dependencies</span>&gt;</span>
+        <span class="hljs-comment">&lt;!--MyBatis&#x4F9D;&#x8D56;--&gt;</span>
+       <span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>org.mybatis<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>mybatis<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>3.4.6<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span>
+         <span class="hljs-comment">&lt;!--&#x6570;&#x636E;&#x5E93;&#x76F8;&#x5173;&#x4F9D;&#x8D56;--&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>mysql<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>mysql-connector-java<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>5.1.35<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">scope</span>&gt;</span>runtime<span class="hljs-tag">&lt;/<span class="hljs-name">scope</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span>
+         <span class="hljs-comment">&lt;!--&#x65E5;&#x5FD7;&#x76F8;&#x5173;&#x4F9D;&#x8D56; --&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>log4j<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>log4j<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>1.2.17<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>org.slf4j<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>slf4j-api<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>1.7.12<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">dependency</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">groupId</span>&gt;</span>org.slf4j<span class="hljs-tag">&lt;/<span class="hljs-name">groupId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>slf4j-log4j12<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">version</span>&gt;</span>1.7.12<span class="hljs-tag">&lt;/<span class="hljs-name">version</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">dependency</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">dependencies</span>&gt;</span>        
+<span class="hljs-comment">&lt;!--&#x8BBE;&#x7F6E;&#x7F16;&#x8BD1;&#x6E90;&#x4EE3;&#x7801;&#x7684;JDK&#x7248;&#x672C;&#x4E3A;1.8--&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">build</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">plugins</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">plugin</span>&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">artifactId</span>&gt;</span>maven-compiler-plugin<span class="hljs-tag">&lt;/<span class="hljs-name">artifactId</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">configuration</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">source</span>&gt;</span>1.8<span class="hljs-tag">&lt;/<span class="hljs-name">source</span>&gt;</span>
+                    <span class="hljs-tag">&lt;<span class="hljs-name">target</span>&gt;</span>1.8<span class="hljs-tag">&lt;/<span class="hljs-name">target</span>&gt;</span>
+                <span class="hljs-tag">&lt;/<span class="hljs-name">configuration</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">plugin</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">plugins</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">build</span>&gt;</span>
+</code></pre>
+<h3 id="3-&#x51C6;&#x5907;&#x4E00;&#x4E2A;&#x6570;&#x636E;&#x5E93;">3. &#x51C6;&#x5907;&#x4E00;&#x4E2A;&#x6570;&#x636E;&#x5E93;</h3>
+<p>&#x6211;&#x4EEC;&#x9700;&#x8981;&#x51C6;&#x5907;&#x4E00;&#x4E2A;&#x6570;&#x636E;&#x5E93;&#x3002;</p>
+<p>MySQL&#x6570;&#x636E;&#x5E93;&#xFF1A;<code>mydb</code>;</p>
+<p>&#x7528;&#x6237;&#x8868;&#xFF1A; <code>t_user</code>&#x3002;</p>
+<table>
+<thead>
+<tr>
+<th>&#x5217;&#x540D;</th>
+<th>&#x7C7B;&#x578B;</th>
+<th>&#x975E;&#x7A7A;</th>
+<th>&#x6CE8;&#x91CA;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>userId</td>
+<td>int</td>
+<td>&#x221A;</td>
+<td>&#x7528;&#x6237;ID &#x4E3B;&#x952E;</td>
+</tr>
+<tr>
+<td>userName</td>
+<td>varchar</td>
+<td>&#x221A;</td>
+<td>&#x7528;&#x6237;&#x540D;</td>
+</tr>
+<tr>
+<td>passWord</td>
+<td>varchar</td>
+<td>&#x221A;</td>
+<td>&#x7528;&#x6237;&#x5BC6;&#x7801;</td>
+</tr>
+</tbody>
+</table>
+<h3 id="4-&#x521B;&#x5EFA;java&#x4E2D;&#x5BF9;&#x5E94;&#x8868;&#x7684;&#x7C7B;">4. &#x521B;&#x5EFA;Java&#x4E2D;&#x5BF9;&#x5E94;&#x8868;&#x7684;&#x7C7B;</h3>
+<pre><code class="lang-java"><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">User</span> </span>{
+     <span class="hljs-keyword">private</span> Integer userId;
+    <span class="hljs-keyword">private</span> String userName;
+    <span class="hljs-keyword">private</span> String passWord;
+    <span class="hljs-comment">//&#x7701;&#x7565;&#x6784;&#x9020;&#x5668;&#x548C;getter&#x548C;setter&#x65B9;&#x6CD5;</span>
+ }
+</code></pre>
+<h3 id="5-&#x521B;&#x5EFA;&#x5E76;&#x914D;&#x7F6E;mybatis&#x7684;&#x6838;&#x5FC3;&#x914D;&#x7F6E;&#x6587;&#x4EF6;">5. &#x521B;&#x5EFA;&#x5E76;&#x914D;&#x7F6E;MyBatis&#x7684;&#x6838;&#x5FC3;&#x914D;&#x7F6E;&#x6587;&#x4EF6;</h3>
+<p>&#x914D;&#x7F6E; <code>MyBatis</code> &#x6709;&#x591A;&#x79CD;&#x65B9;&#x5F0F;&#x3002;&#x5728;&#x8FD9;&#x91CC;&#x4F7F;&#x7528;&#x6700;&#x57FA;&#x7840;&#x7684;<code>XML</code>&#x914D;&#x7F6E;&#x3002;</p>
+<p>&#x5728;<code>src/main/resource</code>&#x4E0B;&#x9762;&#x521B;&#x5EFA;<code>mybatis_config.xml</code>&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x3002;</p>
+<pre><code class="lang-xml"><span class="php"><span class="hljs-meta">&lt;?</span>xml version=<span class="hljs-string">&quot;1.0&quot;</span> encoding=<span class="hljs-string">&quot;UTF-8&quot;</span><span class="hljs-meta">?&gt;</span></span>
+<span class="hljs-meta">&lt;!DOCTYPE configuration
+        PUBLIC &quot;-//mybatis.org//DTD Config 3.0//EN&quot;
+        &quot;http://mybatis.org/dtd/mybatis-3-config.dtd&quot;&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">configuration</span>&gt;</span>
+<span class="hljs-comment">&lt;!-- &#x548C;spring&#x6574;&#x5408;&#x540E; environments&#x914D;&#x7F6E;&#x5C06;&#x5E9F;&#x9664; --&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">environments</span> <span class="hljs-attr">default</span>=<span class="hljs-string">&quot;development&quot;</span>&gt;</span>
+        <span class="hljs-tag">&lt;<span class="hljs-name">environment</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;development&quot;</span>&gt;</span>
+        <span class="hljs-comment">&lt;!-- &#x4F7F;&#x7528;JDBC&#x4E8B;&#x52A1;&#x7BA1;&#x7406; --&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">transactionManager</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;JDBC&quot;</span>/&gt;</span>
+            <span class="hljs-comment">&lt;!-- &#x6570;&#x636E;&#x5E93;&#x8FDE;&#x63A5;&#x6C60; --&gt;</span>
+            <span class="hljs-tag">&lt;<span class="hljs-name">dataSource</span> <span class="hljs-attr">type</span>=<span class="hljs-string">&quot;POOLED&quot;</span>&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;driver&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;com.mysql.jdbc.Driver&quot;</span>/&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;url&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;jdbc:mysql://localhost:3306/mydb?useUnicode=true&amp;amp;characterEncoding=utf-8&quot;</span>/&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;username&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;root&quot;</span>/&gt;</span>
+                <span class="hljs-tag">&lt;<span class="hljs-name">property</span> <span class="hljs-attr">name</span>=<span class="hljs-string">&quot;password&quot;</span> <span class="hljs-attr">value</span>=<span class="hljs-string">&quot;123123&quot;</span>/&gt;</span>
+            <span class="hljs-tag">&lt;/<span class="hljs-name">dataSource</span>&gt;</span>
+        <span class="hljs-tag">&lt;/<span class="hljs-name">environment</span>&gt;</span>
+    <span class="hljs-tag">&lt;/<span class="hljs-name">environments</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">configuration</span>&gt;</span>
+</code></pre>
+<h3 id="6-&#x521B;&#x5EFA;sql&#x6620;&#x5C04;&#x6587;&#x4EF6;">6. &#x521B;&#x5EFA;sql&#x6620;&#x5C04;&#x6587;&#x4EF6;</h3>
+<p><code>UserMapper.xml</code> &#x548C; <code>UserMapper.java</code></p>
+<p>&#x5728;<code>src/main/java/com/test/mapper</code>&#x5305;&#x4E0B;&#x521B;&#x5EFA;<code>UserMapper.java</code>&#x3002;</p>
+<pre><code class="lang-java"><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">UserMapper</span> </span>{
+    <span class="hljs-comment">//&#x6DFB;&#x52A0;&#x7528;&#x6237;</span>
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">addUser</span><span class="hljs-params">(User user)</span></span>;
+}
+</code></pre>
+<h3 id="7&#x521B;&#x5EFA;mapper&#x5BF9;&#x5E94;&#x7684;&#x914D;&#x7F6E;&#x6587;&#x4EF6;">7.&#x521B;&#x5EFA;Mapper&#x5BF9;&#x5E94;&#x7684;&#x914D;&#x7F6E;&#x6587;&#x4EF6;</h3>
+<p>&#x5728;<code>src/main/resource/mapper</code>&#x5305;&#x4E0B;&#x521B;&#x5EFA;<code>UserMapper.xml</code>&#x3002;</p>
+<pre><code class="lang-xml"><span class="php"><span class="hljs-meta">&lt;?</span>xml version=<span class="hljs-string">&quot;1.0&quot;</span> encoding=<span class="hljs-string">&quot;UTF-8&quot;</span><span class="hljs-meta">?&gt;</span></span>
+<span class="hljs-meta">&lt;!DOCTYPE mapper PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot; &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot;&gt;</span>
+<span class="hljs-comment">&lt;!-- &#x547D;&#x540D;&#x7A7A;&#x95F4;&#xFF1A;MyBatis&#x5C31;&#x662F;&#x901A;&#x8FC7;&#x8FD9;&#x4E2A;&#x503C;&#x5C06;&#x63A5;&#x53E3;&#x548C;XML&#x5173;&#x8054;&#x8D77;&#x6765;&#x7684; --&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">mapper</span> <span class="hljs-attr">namespace</span>=<span class="hljs-string">&quot;com.test.mapper.UserMapper&quot;</span>&gt;</span>
+    <span class="hljs-comment">&lt;!-- &#x63D2;&#x5165;user&#x65B9;&#x6CD5; --&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">insert</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&quot;addUser&quot;</span> <span class="hljs-attr">parameterType</span>=<span class="hljs-string">&quot;com.test.pojo.User&quot;</span>&gt;</span>
+        insert into t_user(userId,userName,passWord)
+        values(#{userId},#{userName},#{passWord})
+    <span class="hljs-tag">&lt;/<span class="hljs-name">insert</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">mapper</span>&gt;</span>
+</code></pre>
+<h3 id="8&#x5728;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x4E2D;&#x52A0;&#x5165;&#x67D0;&#x4E2A;&#x7C7B;&#x7684;&#x914D;&#x7F6E;">8.&#x5728;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x4E2D;&#x52A0;&#x5165;&#x67D0;&#x4E2A;&#x7C7B;&#x7684;&#x914D;&#x7F6E;</h3>
+<pre><code class="lang-xml"><span class="hljs-comment">&lt;!-- &#x52A0;&#x8F7D;&#x6620;&#x5C04;&#x6587;&#x4EF6; --&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">mappers</span>&gt;</span>
+    <span class="hljs-tag">&lt;<span class="hljs-name">mapper</span> <span class="hljs-attr">resource</span>=<span class="hljs-string">&quot;mapper/UserMapper.xml&quot;</span>/&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">mappers</span>&gt;</span>
+</code></pre>
+<p>&#x5C06;&#x4EE5;&#x4E0A;&#x914D;&#x7F6E;&#x52A0;&#x5165;&#x5230;&#x4E3B;&#x914D;&#x7F6E;&#x6587;&#x4EF6;&#x4E2D;&#x3002;</p>
+<p><img src="../images/chapter3/image.png" alt="image"></p>
+<h3 id="9&#x7F16;&#x5199;&#x6D4B;&#x8BD5;&#x4EE3;&#x7801;&#x3002;">9.&#x7F16;&#x5199;&#x6D4B;&#x8BD5;&#x4EE3;&#x7801;&#x3002;</h3>
+<pre><code class="lang-java"><span class="hljs-keyword">package</span> com.test.test;
+<span class="hljs-keyword">import</span> com.test.mapper.UserMapper;
+<span class="hljs-keyword">import</span> com.test.pojo.User;
+<span class="hljs-keyword">import</span> org.apache.ibatis.io.Resources;
+<span class="hljs-keyword">import</span> org.apache.ibatis.session.SqlSession;
+<span class="hljs-keyword">import</span> org.apache.ibatis.session.SqlSessionFactory;
+<span class="hljs-keyword">import</span> org.apache.ibatis.session.SqlSessionFactoryBuilder;
+<span class="hljs-keyword">import</span> java.io.IOException;
+<span class="hljs-keyword">import</span> java.io.Reader;
+<span class="hljs-keyword">import</span> java.text.ParseException;
+<span class="hljs-keyword">import</span> java.text.SimpleDateFormat;
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">UserTest</span> </span>{
+    <span class="hljs-keyword">private</span> <span class="hljs-keyword">static</span> SqlSessionFactory sqlSessionFactory;
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span> <span class="hljs-keyword">throws</span> ParseException </span>{
+        User user = <span class="hljs-keyword">new</span> User(<span class="hljs-number">1</span>,<span class="hljs-string">&quot;ming&quot;</span>,<span class="hljs-string">&quot;admin&quot;</span>);
+        insertUser(user);
+    }
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">init</span><span class="hljs-params">()</span> </span>{
+        <span class="hljs-keyword">try</span> {
+        <span class="hljs-comment">//1.&#x8BFB;&#x53D6;MyBatis&#x6838;&#x5FC3;&#x914D;&#x7F6E;&#x6587;&#x4EF6;</span>
+            Reader reader = Resources.getResourceAsReader(<span class="hljs-string">&quot;mybatis_config.xml&quot;</span>);
+        <span class="hljs-comment">//2.&#x901A;&#x8FC7;reader&#x5B9E;&#x4F8B;&#x5316;sqlSessionFactory&#x5BF9;&#x8C61;</span>
+            sqlSessionFactory = <span class="hljs-keyword">new</span> SqlSessionFactoryBuilder().build(reader);
+        } <span class="hljs-keyword">catch</span> (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">insertUser</span><span class="hljs-params">(User user)</span> </span>{
+        init();
+        SqlSession sqlSession = <span class="hljs-keyword">null</span>;
+        <span class="hljs-keyword">try</span> {
+        <span class="hljs-comment">//3.&#x83B7;&#x53D6;sqlSession&#x3002;</span>
+            sqlSession = sqlSessionFactory.openSession();
+            <span class="hljs-comment">//4.&#x67E5;&#x627E;&#x5230;mapper.xml&#x4E2D;id=&quot;addUser&quot;&#x7684;&#x65B9;&#x6CD5;&#x6267;&#x884C;SQL&#x3002;</span>
+            UserMapper mapper = sqlSession.getMapper(UserMapper.class);
+            mapper.addUser(user);
+            <span class="hljs-comment">//5.&#x63D0;&#x4EA4;&#x4E8B;&#x52A1;</span>
+            sqlSession.commit();
+        } <span class="hljs-keyword">catch</span> (Exception e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">if</span> (sqlSession != <span class="hljs-keyword">null</span>) {
+            <span class="hljs-comment">//6.&#x6700;&#x540E;&#x4E00;&#x5B9A;&#x4E0D;&#x8981;&#x5FD8;&#x8BB0;&#x5173;&#x95ED;sqlSession&#x3002;</span>
+                sqlSession.close();
+            }
+        }
+    }
+}
+</code></pre>
+<p>&#x8FD0;&#x884C;&#x7136;&#x540E;&#x67E5;&#x770B;&#x6548;&#x679C;&#xFF1A;</p>
+<p><img src="../images/chapter2/image5.png" alt="image"></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="1ORM简介.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page: ORM简介">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"MyBatis快速入门","level":"1.4.2","depth":2,"next":{"title":"慧搜项目实战","level":"1.5","depth":1,"ref":"","articles":[{"title":"需求分析","level":"1.5.1","depth":2,"path":"chapter3/需求分析.md","ref":"chapter3/需求分析.md","articles":[]},{"title":"项目整合","level":"1.5.2","depth":2,"path":"chapter3/2SSM项目整合.md","ref":"chapter3/2SSM项目整合.md","articles":[]},{"title":"数据入库","level":"1.5.3","depth":2,"path":"chapter3/数据入库.md","ref":"chapter3/数据入库.md","articles":[]},{"title":"功能实现","level":"1.5.4","depth":2,"path":"chapter3/功能实现.md","ref":"chapter3/功能实现.md","articles":[]},{"title":"性能优化","level":"1.5.5","depth":2,"path":"chapter3/性能优化.md","ref":"chapter3/性能优化.md","articles":[]}]},"previous":{"title":"ORM简介","level":"1.4.1","depth":2,"path":"chapter2/1ORM简介.md","ref":"chapter2/1ORM简介.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"chapter2/2MyBatis入门.md","mtime":"2020-06-23T23:45:02.800Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-06-23T23:10:28.429Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

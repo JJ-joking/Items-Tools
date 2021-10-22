@@ -1,0 +1,679 @@
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 12 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.0s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter2/6.4使用Java开发Phoenix程序.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 12 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 16 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+
+[0;31mError: Command server doesn't exist, run "gitbook help" to list commands.[0m
+Live reload server started on port: 35729
+Press CTRL+C to quit ...
+
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 17 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter2/2MyBatis入门.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter2/6.4使用Java开发Phoenix程序.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 17 pages 
+[0;36minfo:[0m found 18 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 20 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY copy.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 15 pages 
+[0;36minfo:[0m found 24 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.8s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/2SSM项目整合.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 14 pages 
+[0;36minfo:[0m found 25 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 1.7s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/数据入库.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/数据入库.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 18 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 21 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.7s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 22 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/数据入库.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 22 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY copy.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 24 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY copy.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 30 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/性能优化.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 30 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/性能优化.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 19 pages 
+[0;36minfo:[0m found 30 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.4s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 21 pages 
+[0;36minfo:[0m found 28 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.8s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/性能优化.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 21 pages 
+[0;36minfo:[0m found 28 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.0s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 21 pages 
+[0;36minfo:[0m found 28 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/Phoenix与Spark.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;33mwarn:[0m search index is too big, indexing is now disabled 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/Phoenix与Spark.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/Phoenix与Spark.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 23 pages 
+[0;36minfo:[0m found 26 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 2.9s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 24 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.1s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/实时监控.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 24 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/实时监控.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 24 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.5s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/实时监控.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 24 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 3.6s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/实时监控.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 24 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 4.3s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file SUMMARY.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 25 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 4.0s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter3/设置网络.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 25 pages 
+[0;36minfo:[0m found 29 asset files 
+[0;36minfo:[0m [0;32m>> [0mgeneration finished with success in 4.2s ! 
+
+Starting server ...
+Serving book on http://localhost:4000
+Restart after change in file chapter4/实时监控.md
+
+Stopping server
+[0;36minfo:[0m 7 plugins are installed 
+[0;36minfo:[0m loading plugin "livereload"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "highlight"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "search"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "lunr"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "sharing"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "fontsettings"... [0;32mOK[0m 
+[0;36minfo:[0m loading plugin "theme-default"... [0;32mOK[0m 
+[0;36minfo:[0m found 25 pages 
+[0;36minfo:[0m found 29 asset files 
